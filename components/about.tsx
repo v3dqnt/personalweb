@@ -81,7 +81,7 @@ const About = ({ setBackgroundColor }: { setBackgroundColor: (color: string) => 
         transition={{ duration: 0.8 }}
         className="bg-[#b1b5a4] col-span-2 row-span-1 rounded-xl shadow-md flex flex-col items-center justify-center text-center p-6 bg-[url('/grain-texture.png')] bg-cover"
       >
-        <p className="text-4xl text-[#522417] font-stretch-50% font-extrabold" style={{ fontFamily: 'var(--font-sub)' }}>Hey, I&apos;m Vedant!</p>
+        <p className="text-4xl text-[#522417] font-stretch-50% font-extrabold" style={{ fontFamily: 'var(--font-sub)' }}>Hey, Im Vedant!</p>
         <p className="text-2xl text-[#522417] mt-3 max-w-lg font-stretch-50% font-extrabold" style={{ fontFamily: 'var(--font-sub)' }}>
           A passionate developer with a keen eye for design and a love for crafting seamless digital experiences.
           Specializing in front-end and full-stack development, I enjoy turning ideas into interactive, high-performing applications.
